@@ -13,7 +13,7 @@ EFI files to boot Big Sur 11.0 (20A5395g) Hackintosh on Acer Nitro 5
 1. Faça download e Instalação do [DeveloperBeta Acces Utility](https://drive.google.com/file/d/1OY8CQ2r-45TpDzOc90lAMaonHjY5OOH4/view?usp=sharing);
 2. Faça download do repositório e descompacte o arquivo ZIP;
 3. Procure por atualização do seu OSX e faça download do instalador do BigSur (`Preferências do Sistema>atualização de Software`);
-4. Abra a partição EFI do HD/SSD (use algum [gerenciador EFI]) onde seu OSX Catalina está instalado;
+4. Abra a partição EFI do HD/SSD (use algum [gerenciador EFI](https://hackintoshbrasil.com/forum/topic/8-diferentes-formas-de-montar-a-efi/)) onde seu OSX Catalina está instalado;
 5. Substitua a pasta EFI do seu HD/SSD pela pasta EFI do repositório;
 6. Inicie o processo de atualização do OSX BigSur, clique no botão reiniciar quando for solicitado (evite reiniciar pelo icone da maçã);
 7. Aguarde o processo de Instalação, demora um pouco e seu Hackintosh irá reiniciar algumas vezes
