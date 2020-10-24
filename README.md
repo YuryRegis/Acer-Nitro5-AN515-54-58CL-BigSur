@@ -11,7 +11,7 @@ EFI files to boot Big Sur 11.0 (20A5395g) Hackintosh on Acer Nitro 5
 # Atualizando o Catalina para a ultima versão BigSur
 
 1. Faça download e Instalação do [DeveloperBeta Acces Utility](https://drive.google.com/file/d/1OY8CQ2r-45TpDzOc90lAMaonHjY5OOH4/view?usp=sharing);
-2. Faça download do repositório e descompacte o arquivo ZIP;
+2. Faça [download do repositório](https://github.com/YuryRegis/Acer-Nitro5-AN515-54-58CL-BigSur/archive/main.zip) e descompacte o arquivo ZIP;
 3. Procure por atualização do seu OSX e faça download do instalador do BigSur (`Preferências do Sistema>atualização de Software`);
 4. Abra a partição EFI do HD/SSD (use algum [gerenciador EFI](https://hackintoshbrasil.com/forum/topic/8-diferentes-formas-de-montar-a-efi/)) onde seu OSX Catalina está instalado;
 5. Substitua a pasta EFI do seu HD/SSD pela pasta EFI do repositório;
@@ -27,7 +27,7 @@ Kext para Airport `Itlw` para placa wireless Intel AX200 adicionado. Usar aplica
   <img src="https://i.ibb.co/ngft7VN/Captura-de-Tela-2020-10-23-a-s-00-54-39.png">
 </p>
 
-- [Heliport App](https://github.com/OpenIntelWireless/HeliPort/releases/tag/v1.0.1)
+- [Heliport App](https://github.com/OpenIntelWireless/HeliPort/releases/tag/v1.0.1) download.
 
 ### Especificações do Hardware
 INFO           | ESPECIFICAÇÃO
